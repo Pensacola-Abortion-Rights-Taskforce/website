@@ -14,7 +14,7 @@
 <section>
   <div class="row">
     <div class="col">
-     Coming Soon.
+     <h2>Website Coming Soon.</h2>
     </div>
   </div>
 </section>
