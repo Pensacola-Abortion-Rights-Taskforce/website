@@ -8,13 +8,13 @@
   }
 </style>
 <div id=hero class="frontpage">
-  <blockquote>Pensacola Abortion Rights Taskforce</blockquote>
+  <blockquote>Website Coming Soon.</blockquote>
 </div>
 
 <section>
   <div class="row">
     <div class="col">
-     <h2>Website Coming Soon.</h2>
+     <h2></h2>
     </div>
   </div>
 </section>
