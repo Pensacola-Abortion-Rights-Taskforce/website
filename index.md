@@ -7,7 +7,7 @@
     max-width: unset;
   }
 </style>
-<div id=hero class="frontpage" markdown=1>
+<div id=hero markdown=1>
   We are a grassroots organization dedicated to the support of safe and secure abortion access in Northwest Florida.
 
   With the recent closing of the American Family Planning Clinic, we recognized a need for a centralized support system for the area where people from any political background can take part in our shared goal.
